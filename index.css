@@ -1,0 +1,249 @@
+header{
+    background-color: blue;
+ 
+    padding: 15px;
+    
+   
+}
+body{
+    background-color: whitesmoke;
+}
+.links{
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+.pro{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.teen{
+text-decoration: none;
+color: white;
+padding: 10px;
+}
+.alpha{
+text-decoration: none;
+color: white;
+padding: 10px;
+}
+#sub{
+    color: blueviolet;
+}
+#tr{
+    color:blueviolet;
+}
+#hr{
+    color: blueviolet;
+}
+.exit{
+    text-decoration: none;
+color: white;
+padding: 10px;
+}
+#add{
+    color: blueviolet;
+}
+.pro:hover{
+    opacity: 0.6;
+    color:red;
+}
+.pro:active{
+    opacity: 0.6;
+    color: white;
+}
+.teen:hover{
+    opacity: 0.6;
+    color:red;
+}
+.teen:active{
+    opacity: 0.6;
+    color: white;
+}
+.alpha:hover{
+    opacity: 0.6;
+    color:red;
+}
+.alpha:active{
+    opacity: 0.6;
+    color: white;
+}
+.exit:hover{
+    opacity: 0.6;
+    color:red;
+}
+.exit:active{
+    opacity: 0.6;
+    color: white;
+}
+footer{
+    background-color: blue;
+    margin-top: 45%;
+    height: 50px;
+    border-radius: 50px;
+   
+}
+.edit{
+    margin-left: 40%;
+    color: white;
+    text-decoration: none;
+    padding-top: 12px;
+}
+.mo23{
+   text-decoration: none;
+}
+#logo{
+    float: left;
+    width: 85px;
+    height: 50px;
+   
+
+   
+
+}
+.f-logo{
+    float: right;
+    width: 85px;
+    height: 50px;
+    background-color: white;
+    
+    
+
+}
+.t-logo{
+    float: right;
+    width: 85px;
+    height: 50px;
+    background-color: white;
+    
+}
+#load{
+    background-color: white;
+    
+}
+.mo{
+    width: 50%;
+    margin-top: 2%;
+    height: 120px;
+    float: left;
+}
+
+.tf{
+    width: 50%;
+    margin-top: 2%;
+    height: 120px;
+    float: left;
+}
+.left{
+    float: left;
+    width: 280px;
+    margin-right: 5px;
+   
+    
+}
+.photo{
+    height: 100px;
+    width: 200px;
+    float: left;
+    margin-right: 5px;
+}
+#news{
+    background-color: blue;
+    color:white;
+   width: 280px;
+   text-align: center;
+}
+.text{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#post {
+    background-color: blue;
+    color:white;
+    width: 280px;
+    text-align: center;
+}
+.posts{
+    float: left;
+    width:280px;
+    margin-right: 8px;
+  
+}
+.tbr{
+    height: 100px;
+    width:200px;
+    float: left;
+    margin-right: 5px;
+}
+.text2{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.creat{
+    float:left;
+    width: 280px;
+    margin-right: 33px;
+}
+#txt{
+    background-color: blue;
+    color:white;
+    width: 306px;
+    text-align: center;
+
+}
+
+.tim{
+    float: left;
+    width: 280px;
+   
+ }  
+ #trb{
+    background-color: blue;
+    color:white;
+    width: 290px;
+    text-align: center;
+
+}
+.text4{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.voce{
+    height: 100px;
+    width:200px;
+    float: left;
+    margin-right: 5px;
+}
+
+.tech{
+    float: left;
+    width: 295px;
+ 
+
+
+}
+.pao{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.menino{
+    height: 100px;
+    width:200px;
+    float: left;
+    margin-right: 5px;
+}
+
+
+#pmp{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tok{
+    height: 100px;
+    width: 200px;
+    float: left;
+    margin-right: 5px;
+}
