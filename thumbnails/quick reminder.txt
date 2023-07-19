@@ -1,0 +1,6 @@
+hover what color would be when cursor is placed kalar ka uu noqonoyo marka cursorka laduldhigo
+
+active kalar kuu noqonoyo marka cursor ka 
+la gu dhugto
+
+visited kalar ka uu noqonoyo marka hore eed soo bookha to page ka
